@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Created by haozuo on 3/22/16.
+ * Created  Sravya Bavu
  */
 public class ChromeDriverTest {
 
